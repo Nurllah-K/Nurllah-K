@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **beyazidtalha@outlook.com**
 
-- ⚡ Fun fact **I am passionate about learning new programming languages and developing new projects. I attach great importance to teamwork and human relations.I am always looking for new opportunities to learn and grow. If you have any questions or suggestions, please do not hesitate to contact me.**
+- ⚡ I am passionate about learning new programming languages and developing new projects. I attach great importance to teamwork and human relations.I am always looking for new opportunities to learn and grow. If you have any questions or suggestions, please do not hesitate to contact me.**
 
  
 
