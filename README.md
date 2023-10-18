@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2017/06/10/07/30/web-2389250_1280.jpg)](https://pixabay.com/tr/)
+[![MasterHead](https://cdn.pixabay.com/photo/2018/03/01/05/46/business-3189797_1280.png)](https://pixabay.com/tr/)
 
 <h1 align="center">Hi 👋, I'm Nurullah-K</h1>
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
