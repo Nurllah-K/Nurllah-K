@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/01/18/38/18-38-04-285_512.gif">
 
-- 🔭 I’m currently working on **HTML5 / CSS3 / JS / React**
+- 🔭 I’m currently working on **HTML5 / CSS3 / JS **
 
-- 🌱 I’m currently learning **HTML, CSS ,JS**
+- 🌱 I’m currently learning **HTML5 / CSS3 / JS / React**
 
 - 📫 How to reach me **beyazidtalha@outlook.com**
 
